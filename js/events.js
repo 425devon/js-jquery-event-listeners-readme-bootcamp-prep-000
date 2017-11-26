@@ -15,6 +15,7 @@ function pressIt(){
         alert('g was pressed');
 }
 });
+}
 
 
 $(document).ready(function(){
